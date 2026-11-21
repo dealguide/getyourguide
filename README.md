@@ -6,7 +6,7 @@
 
 Explore GetYourGuide tours, activities and attraction tickets around the world. Compare prices, cancellation rules, availability and traveler reviews before booking. Selected activities may offer discounts of up to 50%, but there is no guaranteed sitewide promo code or fixed discount. Prices and promotions vary by listing and date.
 
-This independent TheSmart.Deals guide includes affiliate links. The publisher may earn a commission on eligible bookings.
+
 
 ## Quick facts
 
