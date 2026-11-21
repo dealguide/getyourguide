@@ -182,12 +182,6 @@ GetYourGuide is primarily a booking marketplace connecting travelers with activi
 ## SEO search topics
 GetYourGuide discount 2026, GetYourGuide promo code, GetYourGuide deals, GetYourGuide coupon, GetYourGuide tours, GetYourGuide activities, skip-the-line tickets, guided tours Rome, Colosseum tickets, Vatican Museums tickets, Sagrada Familia tickets, Paris Eiffel Tower tours, London attractions, Barcelona tours, Amsterdam canal cruise, Venice gondola ride, Lisbon day trips, Bangkok tours, GetYourGuide review, tours and activities worldwide.
 
-## Affiliate disclosure
-**This repository is an independent promotional guide by TheSmart.Deals, not an official GetYourGuide website.** Links marked by the `partner_id=7WPLS91` parameter are affiliate links. The publisher may receive a commission on qualifying bookings. Prices, activity counts, offers and availability change. No discount is guaranteed.
-
-**Original article:** https://www.thesmart.deals/getyourguide-discount-deals  
-**GitHub Pages:** https://dealguide.github.io/getyourguide/
-
 
 ## Multilingual offer guide
 
