@@ -224,3 +224,6 @@ The website includes 16 translated information cards at the end of the homepage.
 - [العربية](getyourguide-kod-khasm-ar.html)
 - [עברית](getyourguide-kod-hanacha-he.html)
 - [فارسی](getyourguide-kod-takhfif-fa.html)
+
+
+Each localized guide includes 51 selected travel ideas (12 destinations, 12 landmarks, 12 countries, 15 activity ideas). The selection is editorial, not a popularity ranking.
